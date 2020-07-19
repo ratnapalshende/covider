@@ -1,0 +1,3 @@
+covid
+requests
+bs4
