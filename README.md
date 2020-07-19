@@ -11,3 +11,5 @@ step 2 : cd covider
 step 3 : python covider.py
 <br><br>
 All done!! 
+<br><br>
+You can also launch it from any directory by typing <b>covider<b>
