@@ -1,5 +1,5 @@
 # covider
-covider is a tool written in python to use on unix/Linux system.
+covider is a tool written in python to use on android system inside termux.
 This tool is so much helpful to view live record of covid19 pandemic patients. 
 
 #how to install and run
